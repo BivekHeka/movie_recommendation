@@ -50,9 +50,7 @@ h1 {
     text-shadow: #000000 0px 0px 13px;
  }
 
-.github-corner:hover .octo-arm {
-  	animation: octocat-wave 560ms ease-in-out;
-}
+
 
 @keyframes octocat-wave {
   0%,
@@ -79,7 +77,13 @@ h1 {
 	color: white;
 	padding: 1px;
 }
+h2{
+	font-family:'TT Espina';
+}
 
+h5{
+	font-family:'Bebas Neue';
+}
 h6 {
     margin-bottom: 20px;  
 }
